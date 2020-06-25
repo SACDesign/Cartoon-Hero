@@ -7,6 +7,24 @@ body{
 
 }
 
+.container{
+	text-align: center;
+	margin-top: 360px;
+}
+
+.btn{
+	color: #FFFFFF;
+	border: none;
+	background: #232D61;			
+	padding: 10px 20px;
+	font-size: 25px;
+	font-family: MADE TOMMY, Helvetica, Arial, sans-serif;
+	cursor: pointer;
+	margin: 10px;
+}
+
+.btn{border-radius: 32px}
+
 /*header styles*/
 
 h1, h2, p, ol, li {
@@ -43,6 +61,7 @@ header img{
 	padding-top: 25px;
 
 }
+
 
 /*main body styles*/
 
